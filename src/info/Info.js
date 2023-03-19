@@ -37,7 +37,7 @@ export const info = {
         },
         {
             emoji: '🇨🇦',
-            text: 'based in the Canada'
+            text: 'based in Toronto, Canada'
         },
         {
             emoji: "💼",
