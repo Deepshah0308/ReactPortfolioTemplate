@@ -50,27 +50,27 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://facebook.com",
+            link: "https://www.facebook.com/deep030899",
             icon: 'fa fa-facebook',
             label: 'facebook'
         },
         {
-            link: "https://instagram.com",
+            link: "https://www.instagram.com/deepshah0308/",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
         {
-            link: "https://github.com",
+            link: "https://github.com/Deepshah0308",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "https://www.linkedin.com/in/deepvshah03/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com",
+            link: "https://twitter.com/deepshah030899",
             icon: "fa fa-twitter",
             label: 'twitter'
         }
