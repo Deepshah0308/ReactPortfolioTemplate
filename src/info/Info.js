@@ -32,8 +32,8 @@ export const info = {
     baseColor: colors[0],
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
-            emoji: '☕',
-            text: 'fueled by coffee'
+            emoji: '🍫',
+            text: 'fueled by sugar rush'
         },
         {
             emoji: '🇨🇦',
@@ -45,7 +45,7 @@ export const info = {
         },
         {
             emoji: "📧",
-            text: "deep030899@gmail.com"
+            text: "IAm@deep-shah.com"
         }
     ],
     socials: [
