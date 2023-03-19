@@ -50,6 +50,11 @@ export const info = {
     ],
     socials: [
         {
+            link: 'https://drive.google.com/file/d/1bEjgo8ulUXDiiPj8gnHYbNdU-BqXkOLH/view?usp=share_link', // this should be https://yourname.com/resume.pdf once you've deployed
+            icon: 'fa fa-file',
+            label: 'resume',
+          },
+        {
             link: "https://www.facebook.com/deep030899",
             icon: 'fa fa-facebook',
             label: 'facebook'
